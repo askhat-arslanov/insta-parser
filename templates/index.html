@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Insta Parser</title>
+  <script type="text/javascript" src="/static/js/loading-bar.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="/static/css/loading-bar.css"/>
+  <link rel="stylesheet" type="text/css" href="/static/css/reset.css"/>
+  <link rel="stylesheet" type="text/css" href="/static/css/main.css"/>
+  <link rel="stylesheet" type="text/css" href="/static/css/transition.css"/>
+</head>
+<body>
+  <div class="container">
+
+    <header>
+      <h1>INSTA PARSER</h1>
+    </header>
+    <!-- Initial input group -->
+    <div class="insta-group-input">
+      <div class="input-name">
+        <input 
+          required
+          id="account-name-input" 
+          class="" 
+          type="text" 
+          name="account_name"
+          placeholder="&nbsp;Type here..."
+          value="mr.aprae"
+          />
+      </div>
+      <div class="input-button">
+        <button id="account-name-submit">
+            <h5>Go grab!</h5>
+        </button>
+      </div>
+    </div>
+    <!-- List of states and info-->
+    <ul class="states" id="status">
+          
+      <li class="connection">
+        <h4>Connection</h4>
+        <div class="lds-ellipsis progress-icon">
+          <div></div><div></div><div></div><div></div>
+        </div>
+        <img class="ok-icon" src="/static/img/ok-green.svg">
+      </li>
+
+      <li class="account-info">
+        <h4></h4>
+        <img class="account-img" src="">
+      </li>
+
+      <li class="parsing">
+        <h4>Parsing</h4>
+        <div 
+          class="ldBar parser-bar"
+          data-preset="line" 
+          stroke-width='11'
+          data-stroke-width="11"
+          data-stroke="#777"
+          >
+        </div>
+        <img class="ok-icon" src="/static/img/ok-green.svg"> 
+      </li>
+
+      <li class="download">
+        <h4>Download</h4>
+        <div 
+          class="ldBar download-bar" 
+          data-preset="line" 
+          stroke-width='11'
+          data-stroke-width="11"
+          data-stroke="#777"
+          >
+        </div>
+        <img class="ok-icon" src="/static/img/ok-green.svg"> 
+      </li>
+
+      <li class="compressing">
+        <h4>Archiving</h4>
+        <div class="lds-ellipsis progress-icon">
+          <div></div><div></div><div></div><div></div>
+        </div>
+        <img class="ok-icon" src="/static/img/ok-green.svg">
+      </li>
+
+      <li class="ready-link">
+        <h4>Your link</h4>
+        <a href="#" download>
+          <img class="download-icon" src="/static/img/down.svg">
+        </a>
+        <small>Available for 20 minutes</small>
+      </li>
+
+      <li class="some-error">
+        <h4>Oops, error</h4>
+        <img class="not-modified-icon" src="/static/img/error.svg">
+      </li>
+
+      <li class="not-found">
+        <h4>Not found</h4>
+        <img class="not-modified-icon" src="/static/img/not_found.svg">
+      </li>
+    </ul>
+  </div>
+  <script type="text/javascript" src="/static/js/main.js"></script>
+</body>
+</html>

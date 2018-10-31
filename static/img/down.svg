@@ -1,0 +1,62 @@
+<svg class="ldi-ceypt1" width="236px"  height="236px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" style="background: rgb(34, 34, 34);"><!--?xml version="1.0" encoding="utf-8"?--><!--Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)--><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="transform-origin: 50px 50px 0px;" xml:space="preserve"><g style="transform-origin: 50px 50px 0px;"><g style="transform-origin: 50px 50px 0px; transform: scale(1);"><g style="transform-origin: 50px 50px 0px;"><g><style type="text/css" class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -4.2s; animation-direction: normal;">.st0{fill:#999998;} .st1{fill:#323232;} .st2{fill:#CCCCCB;} .st3{fill:#ACBD81;} .st4{fill:#849B87;}</style><g class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -3.85s; animation-direction: normal;"><path class="st2" d="M75.429,46.462H57.748v-21.4c0-0.954-0.774-1.728-1.728-1.728H43.98c-0.954,0-1.728,0.774-1.728,1.728v21.4 H24.571c-1.075,0-1.636,1.277-0.91,2.07L49.09,76.266c0.245,0.267,0.578,0.4,0.91,0.4s0.666-0.133,0.91-0.4L76.34,48.531 C77.066,47.739,76.504,46.462,75.429,46.462z" fill="#222222" style="fill: rgb(34, 34, 34);"></path></g><g class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -3.5s; animation-direction: normal;"><path class="st1" d="M50,10c-22.091,0-40,17.909-40,40c0,22.091,17.909,40,40,40s40-17.909,40-40C90,27.909,72.091,10,50,10z M76.34,48.531L50.91,76.266c-0.245,0.267-0.578,0.4-0.91,0.4s-0.666-0.133-0.91-0.4L23.66,48.531 c-0.726-0.792-0.164-2.07,0.91-2.07h17.682v-21.4c0-0.954,0.774-1.728,1.728-1.728H56.02c0.954,0,1.728,0.774,1.728,1.728v21.4 h17.682C76.504,46.462,77.066,47.739,76.34,48.531z" fill="#6dbf66" style="fill: rgb(109, 191, 102);"></path></g><metadata xmlns:d="https://loading.io/stock/" class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -3.15s; animation-direction: normal;">
+<d:name class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -2.8s; animation-direction: normal;">down</d:name>
+<d:tags class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -2.45s; animation-direction: normal;">south,download,bottom,direction,way,circle,down,arrow</d:tags>
+<d:license class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -2.1s; animation-direction: normal;">cc-by</d:license>
+<d:slug class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -1.75s; animation-direction: normal;">ceypt1</d:slug>
+</metadata></g></g></g></g><style type="text/css" class="ld ld-heartbeat" style="transform-origin: 50px 50px 0px; animation-duration: 4.2s; animation-delay: -1.4s; animation-direction: normal;">path,ellipse,circle,rect,polygon,polyline,line { stroke-width: 0; }@keyframes ld-heartbeat {
+  0% {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+  5% {
+    -webkit-transform: scale(1.25);
+    transform: scale(1.25);
+  }
+  39% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+  45% {
+    -webkit-transform: scale(1.15);
+    transform: scale(1.15);
+  }
+  60% {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+@-webkit-keyframes ld-heartbeat {
+  0% {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+  5% {
+    -webkit-transform: scale(1.25);
+    transform: scale(1.25);
+  }
+  39% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+  45% {
+    -webkit-transform: scale(1.15);
+    transform: scale(1.15);
+  }
+  60% {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+.ld.ld-heartbeat {
+  -webkit-animation: ld-heartbeat 0.8s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
+  animation: ld-heartbeat 0.8s infinite cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+</style></svg></svg>
